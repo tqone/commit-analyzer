@@ -7,7 +7,7 @@ Commit Analyzer
 Analyzes Git commits to generate developer work reports with intelligent categorization, multi-project support, and flexible filtering.
 
 ### Long Description
-Git Commit Analyzer is a developer-focused tool designed to automatically analyze Git commit history and generate comprehensive work reports. It intelligently categorizes commits (feat, fix, docs, test, refactor, perf, style, ci, chore), supports single and multi-project analysis, provides flexible date range queries, and offers multi-language output (English/Chinese). Perfect for daily standups, weekly team reports, and personal work tracking.
+Commit Analyzer is a developer-focused tool designed to automatically analyze Git commit history and generate comprehensive work reports. It intelligently categorizes commits (feat, fix, docs, test, refactor, perf, style, ci, chore), supports single and multi-project analysis, provides flexible date range queries, and offers multi-language output (English/Chinese). Perfect for daily standups, weekly team reports, and personal work tracking.
 
 ### Use Cases
 
